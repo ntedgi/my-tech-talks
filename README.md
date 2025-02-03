@@ -18,7 +18,9 @@ Welcome to the **Tech Talks** repository, a curated collection of presentations 
 10. [Deep Dive into `node_modules`](#deep-dive-into-node_modules)
 11. [Case Study: Node.js on Kubernetes Transition](#case-study-nodejs-on-kubernetes-transition)
 12. [MySQL Aurora Write Forwarding Insights](#mysql-aurora-write-forwarding-insights)
-13. [Effortless Efficiency: GitHub Codespaces, Templates, and Embracing YAGNI](#effortless-efficiency-github-codespaces-templates-and-embracing-yagni)
+13. [iAds Platform Group - Telepresence Overview](#iads-platform-group-telepresence-overview)
+14. [Effortless Efficiency: GitHub Codespaces, Templates, and Embracing YAGNI](#effortless-efficiency-github-codespaces-templates-and-embracing-yagni)
+15. [Move to Kubernetes - User Acceptance Testing (UAT) Environments](#move-to-kubernetes-user-acceptance-testing-uat-environments)
 
 ---
 
@@ -81,6 +83,18 @@ Identify and resolve memory leaks in Kafka producers while optimizing garbage co
 ### [Deep Dive into `node_modules`](https://github.com/ntedgi/Demand-TechTalks/tree/main/node-modules)
 **Date:** January 8, 2023  
 Unpack the mysteries of `node_modules`, exploring its structure, dependencies, and optimization strategies.
+
+---
+
+### [iAds Platform Group - Telepresence Overview](https://github.com/ntedgi/Demand-TechTalks/tree/main/iAds%20Platform%20Telepresence)
+**Date:** August 30, 2023  
+An overview of the iAds Platform Group's telepresence system, its capabilities, and integration within the platform.
+
+---
+
+### [Move to Kubernetes - User Acceptance Testing (UAT) Environments](https://github.com/ntedgi/Demand-TechTalks/tree/main/Move%20to%20Kubernetes%20UAT)
+**Date:** March 31, 2024  
+A discussion on moving to Kubernetes and setting up User Acceptance Testing (UAT) environments efficiently.
 
 ---
 
