@@ -1,0 +1,70 @@
+Intro
+Microsoft Buy Github Amazing Azure integartion 
+VS Code Integrated in Browese
+
+Github Code Space
+Prepare env Before demo 
+VS code in Browser
+Each github repo became a working environment
+Navigation 
+PR’s 
+Vs code extension from local 
+Build Dev container online 
+Check if you can connect AWS resources
+Common use case .
+Dev containers demo 
+Day to day development on any Computer OS
+Apps Helm Chart
+Faster PR and configuration changes without cli Commands from Pc
+Reduce Job Interviews environment Initialization
+In case all your are a director and all you developers on a flight from helsinki got 
+Light strike 
+	
+Github Templates
+Lets imagine you home alone at night and you decide you want to learn hot to build HTTp server in Rust
+You go to google and search for Rust-server Boiler Plate 
+Forking / Cloning
+Doesn't matter your going to abandon it in 45 minutes 
+We need to Create multiple backend apps 
+Offline - Kafka , Sqs 
+Scheduled Tasks  -  Crons
+Rest API 
+Build project structure (boiler Plate) 
+Reuse Shared Library 
+Build Shared Layout 
+Router , Logging Metrics , Db Integration 
+Docker file 
+Github Action ! Full Ci Flow 
+Coverage Deploy UNit test integration  
+Your code get tested in CI from first commit! 
+Benefits Reuse Code , Work Flows Common Use Case And Company Tools
+
+
+
+
+
+
+
+
+
+
+
+
+Mono Repo Templates and Our Take Aways 
+You don’t Need Any Tool 
+You Need to 
+Build /Compile
+Run Tests
+Run local
+Deploy
+Affected Workspace?
+WHY YOU DON’T KNOW WHAT IS AFFECTED?
+I finish my module run test release version  1.0.0
+Install the module in new package write test 
+Publish
+SYMBOLink LINK Packages  
+WORK ON EACH Package in different task
+Caching Your resources 
+One year free Dashboard for all your CI Runs trends
+Adding A lot of config files to support this features
+
