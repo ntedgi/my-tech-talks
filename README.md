@@ -16,11 +16,11 @@ Welcome to the **Tech Talks** repository, a curated collection of presentations 
 8. [Understanding HTTP Headers](#understanding-http-headers)
 9. [Memory Leaks in Kafka Producers and GC Optimization](#memory-leaks-in-kafka-producers-and-gc-optimization)
 10. [Deep Dive into `node_modules`](#deep-dive-into-node_modules)
-11. [Case Study: Node.js on Kubernetes Transition](#case-study-nodejs-on-kubernetes-transition)
-12. [MySQL Aurora Write Forwarding Insights](#mysql-aurora-write-forwarding-insights)
-13. [iAds Platform Group - Telepresence Overview](#iads-platform-group-telepresence-overview)
-14. [Effortless Efficiency: GitHub Codespaces, Templates, and Embracing YAGNI](#effortless-efficiency-github-codespaces-templates-and-embracing-yagni)
-15. [Move to Kubernetes - User Acceptance Testing (UAT) Environments](#move-to-kubernetes-user-acceptance-testing-(uat)-environments)
+11. [Move to Kubernetes - User Acceptance Testing (UAT) Environments](#move-to-kubernetes-user-acceptance-testing-(uat)-environments)
+12. [Case Study: Node.js on Kubernetes Transition](#case-study-nodejs-on-kubernetes-transition)
+13. [MySQL Aurora Write Forwarding Insights](#mysql-aurora-write-forwarding-insights)
+14. [iAds Platform Group - Telepresence Overview](#iads-platform-group-telepresence-overview)
+15. [Effortless Efficiency: GitHub Codespaces, Templates, and Embracing YAGNI](#effortless-efficiency-github-codespaces-templates-and-embracing-yagni)
 
 ---
 
