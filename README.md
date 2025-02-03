@@ -18,6 +18,7 @@ Welcome to the **Tech Talks** repository, a curated collection of presentations 
 10. [Deep Dive into `node_modules`](#deep-dive-into-node_modules)
 11. [Case Study: Node.js on Kubernetes Transition](#case-study-nodejs-on-kubernetes-transition)
 12. [MySQL Aurora Write Forwarding Insights](#mysql-aurora-write-forwarding-insights)
+13. [Effortless Efficiency: GitHub Codespaces, Templates, and Embracing YAGNI](#effortless-efficiency-github-codespaces-templates-and-embracing-yagni)
 
 ---
 
@@ -92,4 +93,10 @@ A real-world case study on transitioning a Node.js application to Kubernetes, fo
 ### [MySQL Aurora Write Forwarding Insights](https://github.com/ntedgi/Demand-TechTalks/tree/main//Write%20Forwarding%20Benchmarking%20Insights)
 **Date:** August 8, 2024  
 An in-depth analysis of MySQL Aurora's write-forwarding capabilities and benchmarking insights.
+
+---
+
+### [Effortless Efficiency: GitHub Codespaces, Templates, and Embracing YAGNI](https://github.com/ntedgi/Demand-TechTalks/tree/main/Effortless%20Efficiency)
+**Date:** February 3, 2025  
+Explore how GitHub Codespaces and templates can streamline development while embracing the "You Ain’t Gonna Need It" (YAGNI) principle.
 
