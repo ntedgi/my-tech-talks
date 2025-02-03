@@ -20,7 +20,7 @@ Welcome to the **Tech Talks** repository, a curated collection of presentations 
 12. [MySQL Aurora Write Forwarding Insights](#mysql-aurora-write-forwarding-insights)
 13. [iAds Platform Group - Telepresence Overview](#iads-platform-group-telepresence-overview)
 14. [Effortless Efficiency: GitHub Codespaces, Templates, and Embracing YAGNI](#effortless-efficiency-github-codespaces-templates-and-embracing-yagni)
-15. [Move to Kubernetes - User Acceptance Testing (UAT) Environments](#move-to-kubernetes-user-acceptance-testing-uat-environments)
+15. [Move to Kubernetes - User Acceptance Testing (UAT) Environments](#move-to-kubernetes-user-acceptance-testing-(uat)-environments)
 
 ---
 
