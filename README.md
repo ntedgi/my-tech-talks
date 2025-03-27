@@ -98,7 +98,7 @@ A discussion on moving to Kubernetes and setting up User Acceptance Testing (UAT
 
 ---
 
-### [Case Study: Node.js on Kubernetes Transition](https://github.com/ntedgi/Demand-TechTalks/tree/main//Write%20Forwarding%20Benchmarking%20Insights)
+### [Case Study: Node.js on Kubernetes Transition](https://github.com/ntedgi/Demand-TechTalks/tree/main/Node%20on%20Kubernetes)
 **Date:** May 5, 2024  
 A real-world case study on transitioning a Node.js application to Kubernetes, focusing on benchmarking and performance.
 
